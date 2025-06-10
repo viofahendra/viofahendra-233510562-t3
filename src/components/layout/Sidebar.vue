@@ -1,5 +1,6 @@
 <script setup>
 const navItems = [
+  { name: 'Home', href: '/' },
   { name: 'Nested', href: '/nested' },
   { name: 'Props', href: '/props' },
   { name: 'Emit', href: '/emit' },
